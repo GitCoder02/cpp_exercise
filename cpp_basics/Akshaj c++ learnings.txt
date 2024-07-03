@@ -1,0 +1,1 @@
+1) When using "string" data type... include library <string> to run the program.
